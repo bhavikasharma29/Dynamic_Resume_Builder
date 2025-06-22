@@ -26,7 +26,6 @@ A sleek, dynamic resume builder built using **Next.js**, **Firebase**, and **Tai
 
 ## 🎯 Project Status
 > Actively being explored and customized.  
-UI + templates to be upgraded after Flipkart Grid.
 
 ---
 
